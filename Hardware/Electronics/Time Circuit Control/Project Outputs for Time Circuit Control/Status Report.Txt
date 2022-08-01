@@ -1,24 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Time Circuit Control.PrjPcb]
-   Generated File[Time Circuit Control.GTL]
-   Generated File[Time Circuit Control.GBL]
-   Generated File[Time Circuit Control.GPB]
-   Generated File[Time Circuit Control.GPT]
-   Generated File[Time Circuit Control.GTO]
-   Generated File[Time Circuit Control.GTP]
-   Generated File[Time Circuit Control.GTS]
-   Generated File[Time Circuit Control.GBS]
-   Generated File[Time Circuit Control.GBP]
-   Generated File[Time Circuit Control.GBO]
-   Generated File[Time Circuit Control.GKO]
-   Generated File[Time Circuit Control.GM1]
-   Generated File[Time Circuit Control.RUL]
-   Generated File[Time Circuit Control.EXTREP]
-   Generated File[Time Circuit Control.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Time Circuit Control.PrjPcb]
+   Generated File[Time Circuit Control.TXT]
+   Generated File[Time Circuit Control.LDP]
+   Generated File[Time Circuit Control.DRR]
 
 
-Files Generated   : 15
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 11:02:30 On 01/08/2022
+Finished Output Generation At 16:05:32 On 01/08/2022
