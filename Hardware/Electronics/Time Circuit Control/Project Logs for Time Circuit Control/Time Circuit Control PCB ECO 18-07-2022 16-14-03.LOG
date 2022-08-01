@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+3.3V BAT Pin=IC4-1
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=V_DD_1 Pin=R27-1
+Removed Pin From Net: NetName=PA1 Pin=R27-2
+Removed Pin From Net: NetName=V_DD_1 Pin=R28-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=R28-2
+Change Component Library : Designator=R21 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R22 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R27 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R28 Old Library=* New Library=SamacSys.SchLib
+Added Component: Designator=R31(RESC2012X50N)
+Added Component: Designator=R32(RESC2012X50N)
+Added Pin To Net: NetName=NetD3_2 Pin=R27-1
+Added Pin To Net: NetName=NetJ7_2 Pin=R27-2
+Added Pin To Net: NetName=NetD3_1 Pin=R28-1
+Added Pin To Net: NetName=NetJ7_3 Pin=R28-2
+Added Pin To Net: NetName=V_DD_1 Pin=R27-1
+Added Pin To Net: NetName=PA1 Pin=R27-2
+Added Pin To Net: NetName=V_DD_1 Pin=R28-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=R28-2

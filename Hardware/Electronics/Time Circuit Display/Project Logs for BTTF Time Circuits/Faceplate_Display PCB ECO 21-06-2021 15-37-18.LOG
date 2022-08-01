@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=COM0 Pin=D1-2
+Removed Pin From Net: NetName=COM0 Pin=IC1-2
+Removed Pin From Net: NetName=COM1 Pin=IC1-3
+Removed Pin From Net: NetName=COM2 Pin=IC1-4
+Removed Pin From Net: NetName=COM3 Pin=IC1-5
+Removed Pin From Net: NetName=COM4 Pin=IC1-6
+Added Pin To Net: NetName=COM4 Pin=IC1-5
+Added Pin To Net: NetName=COM3 Pin=IC1-6
+Added Pin To Net: NetName=COM2 Pin=IC1-7
+Added Pin To Net: NetName=COM1 Pin=IC1-8
+Added Pin To Net: NetName=COM0 Pin=IC1-9
+Change Net Name : Old Net Name=COM0 New Net Name=COM7
+Change Net Name : Old Net Name=COM1 New Net Name=COM6
+Change Net Name : Old Net Name=COM2 New Net Name=COM5
+Change Net Name : Old Net Name=COM3 New Net Name=COM4
+Change Net Name : Old Net Name=COM4 New Net Name=COM3
+Added Pin To Net: NetName=COM0 Pin=D1-2
+Added Pin To Net: NetName=COM0 Pin=DSP1-9
+Added Pin To Net: NetName=COM0 Pin=IC1-2
+Added Net: Name=COM0
+Added Pin To Net: NetName=COM1 Pin=DSP1-6
+Added Pin To Net: NetName=COM1 Pin=IC1-3
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=DSP1-10
+Added Pin To Net: NetName=COM2 Pin=IC1-4
+Added Net: Name=COM2
+Added Room: Name=Faceplate_Display

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=V_DD_1 Pin=R27-1
+Removed Pin From Net: NetName=PA1 Pin=R27-2
+Removed Pin From Net: NetName=V_DD_1 Pin=R28-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=R28-2
+Removed Member From Class: ClassName=TC Display & IMU Member=J2
+Added Component: Designator=R31(RESC2012X50N)
+Added Component: Designator=R32(RESC2012X50N)
+Added Pin To Net: NetName=NetD3_2 Pin=R27-1
+Added Pin To Net: NetName=NetJ7_4 Pin=R27-2
+Added Pin To Net: NetName=NetD3_1 Pin=R28-1
+Added Pin To Net: NetName=NetJ7_3 Pin=R28-2
+Added Pin To Net: NetName=V_DD_1 Pin=R27-1
+Added Pin To Net: NetName=PA1 Pin=R27-2
+Added Pin To Net: NetName=V_DD_1 Pin=R28-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=R28-2
+Added Member To Class: ClassName=TC Display & IMU Member=Component J6 35312-0460

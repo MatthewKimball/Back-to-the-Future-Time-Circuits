@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Time Circuit Control.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\Hardware\Electronics\Time Circuit Control\Time Circuit Control.PrjPcb|ReportField=Title~Bill of Materials For Project [Time Circuit Control.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~103|ReportField=ReportTime~11:05:38|ReportField=ReportDate~01/08/2022|ReportField=ReportDateTime~01/08/2022 11:05:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~01/08/2022|ReportField=CurrentTime~11:03:36|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\Hardware\Electronics\Time Circuit Control\Time Circuit Control.SchDoc|ReportField=DocumentName~Time Circuit Control.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~28/07/2022|ReportField=Organization~|ReportField=ProjectName~Time Circuit Control.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~9|ReportField=SheetTotal~9|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Time Circuit Control.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Hardware\Electronics\Time Circuit Control\Time Circuit Control.PrjPcb
+1|C0805C104K3RACTU|Capacitor|C1, C6, C7, C10, C11, C12, C14, C17, C18, C19, C20, C23|CAPC2012X88N|C0805C104K3RACTU|12
+2|C0805C106K8RACTU|Capacitor|C2|C0805|C0805C106K8RACTU|1
+3|C0805C104K4RACTU|Capacitor|C3, C13, C15, C16|CAPC2012X88N|C0805C104K4RACTU|4
+4|C0805C473J8GACAUTO|Capacitor|C4, C5|C0805|C0805C473J8GACAUTO|2
+5|C0805C105K5RACTU|Capacitor|C8, C9, C21|CAPC2012X140N|C0805C105K5RACTU|3
+6|C0805C103J5RACTU|Capacitor|C22|CAPC2012X88N|C0805C103J5RACTU|1
+7|C0805C475K3PACTU|Capacitor|C24|CAPC2013X140N|C0805C475K3PACTU|1
+8|1N5819HW-7-F|Diode|D1|SOD3716X125N|1N5819HW-7-F|1
+9|SMD-LX5050RGB-TR|Diode|D2|SMDLX5050RGBTR|SMD-LX5050RGB-TR|1
+10|ESDAVLC6-2BLY|TVS Diode (Bi-directional)|D3, D4|SOT95P255X150-3N|ESDAVLC6-2BLY|2
+11|AP2127K-3.3TRG1|Integrated Circuit|DC1|SOT95P282X145-5N|AP2127K-3.3TRG1|1
+12|MAX98357AETE+|Integrated Circuit|IC1|QFN50P300X300X80-17N|MAX98357AETE+|1
+13|MCP2562-E_SN|Integrated Circuit|IC2|SOIC127P600X175-8N|MCP2562-E_SN|1
+14|DS3231SN#|Integrated Circuit|IC3|SOIC127P1032X265-16N|DS3231SN#|1
+15|STM32F405RGT6|Integrated Circuit|IC4|QFP50P1200X1200X160-64N|STM32F405RGT6|1
+16|35312-0260|Connector|J1, J4|SHDR2W64P0X250_1X2_746X650X700P|35312-0260|2
+17|35312-0460|Connector|J2, J6|SHDR4W64P0X250_1X4_1246X650X700P|35312-0460|2
+18|S8421-45R|Connector|J3|S8421-45R_1|S8421-45R|1
+19|35312-0760|Connector|J5|SHDR7W64P0X250_1X7_1996X650X700P|35312-0760|1
+20|0353120560|Connector|J7|0353120560|0353120560|1
+21|MEM2075-00-140-01-A|Connector|J8|MEM20750014001A|MEM2075-00-140-01-A|1
+22|FTSH-105-01-F-DV-K-P|Connector|J9|FTSH-105-XX-YYY-DV-K-P|FTSH-105-01-F-DV-K-P|1
+23|M20-9990246|Connector|J10, J11|HDRV2W66P0X254_1X2_508X254X874P|M20-9990246|2
+24|742792023LF|Inductor|L1, L2|CAPC2012X110N|742792023LF|2
+25|KPTD-3216SURCK|LED|LED1, LED2|KPTD3216SURCK|KPTD-3216SURCK|2
+26|LTH5MM12VFR4100|LED|LED3, LED4, LED5, LED6|LTH5MM12VFR4100|LTH5MM12VFR4100|4
+27|2N7002|MOSFET (N-Channel)|Q1, Q2, Q3, Q4, Q5|SOT96P240X120-3N|2N7002|5
+28|CRCW080510K0FKEAHP|Resistor|R1, R8, R9, R12, R35, R36|RESC2012X60N|CRCW080510K0FKEAHP|6
+29|CRCW0805634KFKEA|Resistor|R2|RESC2012X50N|CRCW0805634KFKEA|1
+30|CRCW0805100KFKEAC|Resistor|R3, R4|RESC2012X60N|CRCW0805100KFKEAC|2
+31|KTR10EZPJ121|Resistor|R5|RESC2012X65N|KTR10EZPJ121|1
+32|ERA-6VEB2201V|Resistor|R6, R7|RESC2012X65N|ERA-6VEB2201V|2
+33|CRCW08054K70FKEAHP|Resistor|R10, R11, R17, R18, R19, R20, R23, R24, R25, R26|RESC2012X50N|CRCW08054K70FKEAHP|10
+34|RT0805FRE13150RL|Resistor|R13, R14, R15|RESC2012X60N|RT0805FRE13150RL|3
+35|RT0805FRE0768RL|Resistor|R16|RESC2012X60N|RT0805FRE0768RL|1
+36|CRCW0805100RFKEAHP|Resistor|R21, R22, R27, R28|RESC2012X50N|CRCW0805100RFKEAHP|4
+37|CRCW080539K0FKEA|Resistor|R29, R30, R31, R32, R33, R34|RESC2012X50N|CRCW080539K0FKEA|6
+38|EXB-V8V104JV|Resistor Network|RN1|EXBV8V104JV|EXB-V8V104JV|1
+39|MHS12204|Switch|S1, S7|MHS12204|MHS12204|2
+40|SS-10-15SPE|Switch|S2|SS1015SPE|SS-10-15SPE|1
+41|DM-01-V|Switch|S3|DM01V|DM-01-V|1
+42|218-4LPSTJRF|Switch|S4|2184LPSTJRF|218-4LPSTJRF|1
+43|TS02-66-150-BK-100-LCR-D|Integrated Circuit|S5|TS0266150BK100LCRD|TS02-66-150-BK-100-LCR-D|1
+44|BB15AP-FA|Switch|S6|BB15APFA|BB15AP-FA|1
+45|2-1437565-8|Switch|S8|FSM2J_1|2-1437565-8|1
+46|CSTLS8M00G53-A0|Crystal or Oscillator|Y1|CSTLS8M00G53A0|CSTLS8M00G53-A0|1

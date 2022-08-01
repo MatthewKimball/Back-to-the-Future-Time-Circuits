@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Keypad Controls Member=C24
+Removed Member From Class: ClassName=Keypad Controls Member=D1
+Added Member To Class: ClassName=Power Member=Component C10 C0805C104K3RACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component C11 C0805C104K3RACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component D2 SMD-LX5050RGB-TR

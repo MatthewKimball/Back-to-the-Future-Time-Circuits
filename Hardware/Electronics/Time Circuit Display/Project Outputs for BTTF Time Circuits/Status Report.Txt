@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BTTF Time Circuits.PrjPcb]
+   Generated File[Faceplate_Display.TXT]
+   Generated File[Faceplate_Display.LDP]
+   Generated File[Faceplate_Display.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:11:42 On 03/02/2022

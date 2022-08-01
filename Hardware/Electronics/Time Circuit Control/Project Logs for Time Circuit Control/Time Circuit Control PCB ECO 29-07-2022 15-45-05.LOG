@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=V_DD_1 Pin=D1-2
+Removed Member From Class: ClassName=Keypad Controls Member=C24
+Change Component Footprint: Designator=D2 Old Footprint=SMDLX5050RGBTR New Footprint=SOD3716X125N
+Change Component Footprint: Designator=D1 Old Footprint=SOD3716X125N New Footprint=SMDLX5050RGBTR
+Change Component Comment : Designator=D1 Old Comment=1N5819HW-7-F New Comment=SMD-LX5050RGB-TR
+Change Component Comment : Designator=D2 Old Comment=SMD-LX5050RGB-TR New Comment=1N5819HW-7-F
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Added Pin To Net: NetName=+3.3V BAT Pin=C10-1
+Added Pin To Net: NetName=V_SS_1 Pin=C10-2
+Added Pin To Net: NetName=+3.3V BAT Pin=D1-1
+Added Pin To Net: NetName=V_DD_1 Pin=D1-2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=+5V Pin=D2-6

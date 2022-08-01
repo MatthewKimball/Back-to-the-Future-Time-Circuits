@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=I2C1_SDA Pin=Q5-2
+Added Pin To Net: NetName=I2C1_SCL Pin=Q5-2
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

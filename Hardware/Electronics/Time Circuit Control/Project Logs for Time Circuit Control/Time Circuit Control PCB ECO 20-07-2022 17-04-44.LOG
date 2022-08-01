@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=I2C3_SDA Pin=IC3-15
+Removed Pin From Net: NetName=I2C3_SCL Pin=IC3-16
+Removed Pin From Net: NetName=I2C2_SCL Pin=Q4-2
+Removed Pin From Net: NetName=I2C2_SDA Pin=Q5-2
+Removed Pin From Net: NetName=I2C2_SCL Pin=R23-2
+Removed Pin From Net: NetName=I2C2_SDA Pin=R24-2
+Added Pin To Net: NetName=I2C2_SDA Pin=IC3-15
+Added Pin To Net: NetName=I2C2_SCL Pin=IC3-16
+Added Pin To Net: NetName=I2C3_SCL Pin=Q4-2
+Added Pin To Net: NetName=I2C3_SDA Pin=Q5-2
+Added Pin To Net: NetName=I2C3_SCL Pin=R23-2
+Added Pin To Net: NetName=I2C3_SDA Pin=R24-2
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

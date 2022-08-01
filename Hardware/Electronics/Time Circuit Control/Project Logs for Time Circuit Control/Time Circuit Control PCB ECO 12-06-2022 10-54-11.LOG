@@ -1,0 +1,87 @@
+Added Member To Class: ClassName=Audio Amp & Control Member=Component C1 C0805C106K8RACTU
+Added Member To Class: ClassName=Audio Amp & Control Member=Component C2 C0805C104K4RACTU
+Added Member To Class: ClassName=Audio Amp & Control Member=Component C3 C0805C473J8GACAUTO
+Added Member To Class: ClassName=Audio Amp & Control Member=Component C4 C0805C473J8GACAUTO
+Added Member To Class: ClassName=CAN Comms Member=Component C5 C0805C104K3RACTU
+Added Member To Class: ClassName=CAN Comms Member=Component C6 C0805C104K3RACTU
+Added Member To Class: ClassName=Power Member=Component C7 80-C0805C105K5R
+Added Member To Class: ClassName=Power Member=Component C8 80-C0805C105K5R
+Added Member To Class: ClassName=Keypad Controls Member=Component C9 100nF
+Added Member To Class: ClassName=Keypad Controls Member=Component C10 C0805C104K3RACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component C11 C0805C104K3RACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component C12 C0805C104K3RACTU
+Added Member To Class: ClassName=Ext RTC Member=Component C13 100nF
+Added Member To Class: ClassName=Sound Effect Memory Member=Component C14 100nF
+Added Member To Class: ClassName=MCU Member=Component C15 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C16 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C17 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C18 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C19 C0805C105K5RACTU
+Added Member To Class: ClassName=MCU Member=Component C20 C0805C103J5RACTU
+Added Member To Class: ClassName=MCU Member=Component C21 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C22 C0805C475K3PACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component D1 SMD-LX5050RGB-TR
+Added Member To Class: ClassName=TC Display & IMU Member=Component D2 ESDAVLC6-2BLY
+Added Member To Class: ClassName=TC Display & IMU Member=Component D3 ESDAVLC6-2BLY
+Added Member To Class: ClassName=Power Member=Component DC1 AP2127K-3.3TRG1
+Added Member To Class: ClassName=Audio Amp & Control Member=Component IC1 MAX98357AETE+
+Added Member To Class: ClassName=CAN Comms Member=Component IC2 MCP2562-E_SN
+Added Member To Class: ClassName=Ext RTC Member=Component IC3 DS3231SN#
+Added Member To Class: ClassName=MCU Member=Component IC4 STM32F405RGT6
+Added Member To Class: ClassName=Audio Amp & Control Member=Component J1 35312-0260
+Added Member To Class: ClassName=CAN Comms Member=Component J2 653104124022
+Added Member To Class: ClassName=Power Member=Component J3 S8421-45R
+Added Member To Class: ClassName=Power Member=Component J4 35312-0260
+Added Member To Class: ClassName=Keypad Controls Member=Component J5 35312-0760
+Added Member To Class: ClassName=TC Display & IMU Member=Component J6 35312-0460
+Added Member To Class: ClassName=TC Display & IMU Member=Component J7 0353120560
+Added Member To Class: ClassName=Sound Effect Memory Member=Component J8 MEM2075-00-140-01-A
+Added Member To Class: ClassName=MCU Member=Component J9 FTSH-105-01-F-DV-K-P
+Added Member To Class: ClassName=Audio Amp & Control Member=Component L1 742792023LF
+Added Member To Class: ClassName=Audio Amp & Control Member=Component L2 742792023LF
+Added Member To Class: ClassName=Power Member=Component LED1 KPTD-3216SURCK
+Added Member To Class: ClassName=Power Member=Component LED2 KPTD-3216SURCK
+Added Member To Class: ClassName=Keypad Controls Member=Component Q1 2N7002
+Added Member To Class: ClassName=TC Display & IMU Member=Component Q2 2N7002
+Added Member To Class: ClassName=TC Display & IMU Member=Component Q3 2N7002
+Added Member To Class: ClassName=TC Display & IMU Member=Component Q4 2N7002
+Added Member To Class: ClassName=TC Display & IMU Member=Component Q5 2N7002
+Added Member To Class: ClassName=Audio Amp & Control Member=Component R1 PTV09A-4025U-B103
+Added Member To Class: ClassName=Audio Amp & Control Member=Component R2 CRCW0805634KFKEA
+Added Member To Class: ClassName=Audio Amp & Control Member=Component R3 CRCW0805100KFKEAC
+Added Member To Class: ClassName=Audio Amp & Control Member=Component R4 CRCW0805100KFKEAC
+Added Member To Class: ClassName=CAN Comms Member=Component R5 KTR10EZPJ121
+Added Member To Class: ClassName=Power Member=Component R6 ERA-6VEB3000V
+Added Member To Class: ClassName=Power Member=Component R7 ERA-6VEB1300V
+Added Member To Class: ClassName=Keypad Controls Member=Component R8 10k
+Added Member To Class: ClassName=Keypad Controls Member=Component R9 10k
+Added Member To Class: ClassName=Keypad Controls Member=Component R10 4.7K
+Added Member To Class: ClassName=Keypad Controls Member=Component R11 4.7K
+Added Member To Class: ClassName=Keypad Controls Member=Component R12 10k
+Added Member To Class: ClassName=Keypad Controls Member=Component R13 ERA-6VEB1300V
+Added Member To Class: ClassName=Keypad Controls Member=Component R14 ERA-6VEB1300V
+Added Member To Class: ClassName=Keypad Controls Member=Component R15 ERA-6VEB1300V
+Added Member To Class: ClassName=Keypad Controls Member=Component R16 ERA-6VEB1300V
+Added Member To Class: ClassName=TC Display & IMU Member=Component R17 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R18 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R19 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R20 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R21 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R22 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R23 4.7K
+Added Member To Class: ClassName=TC Display & IMU Member=Component R24 4.7K
+Added Member To Class: ClassName=Ext RTC Member=Component R25 CRCW080539K0FKEA
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R26 39K
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R27 39K
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R28 39K
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R29 39K
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R30 39K
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R31 CRCW080510K0FKEAHP
+Added Member To Class: ClassName=MCU Member=Component R32 10k
+Added Member To Class: ClassName=CAN Comms Member=Component RN1 EXB-V8V104JV
+Added Member To Class: ClassName=Audio Amp & Control Member=Component S1 SS-10-15SPE
+Added Member To Class: ClassName=CAN Comms Member=Component S2 DM-01-V
+Added Member To Class: ClassName=CAN Comms Member=Component S3 218-4LPSTJRF
+Added Member To Class: ClassName=Keypad Controls Member=Component S6 MHS12204
+Added Member To Class: ClassName=MCU Member=Component S7 2-1437565-8
+Added Member To Class: ClassName=MCU Member=Component Y1 CSTLS8M00G53-A0

@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=J6-2
+Removed Pin From Net: NetName=NetD2_1 Pin=J6-3
+Removed Pin From Net: NetName=NetD3_2 Pin=J7-2
+Removed Pin From Net: NetName=NetD3_1 Pin=J7-3
+Removed Pin From Net: NetName=V_DD_1 Pin=R21-1
+Removed Pin From Net: NetName=I2C2_SCL Pin=R21-2
+Removed Pin From Net: NetName=V_DD_1 Pin=R22-1
+Removed Pin From Net: NetName=I2C2_SDA Pin=R22-2
+Removed Pin From Net: NetName=V_DD_1 Pin=R27-1
+Removed Pin From Net: NetName=PA1 Pin=R27-2
+Removed Pin From Net: NetName=V_DD_1 Pin=R28-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=R28-2
+Change Component DesignItemId : Designator=R21 Old DesignItemId=CRCW08054K70FKEAHP New DesignItemId=CRCW0805100RFKEAHP
+Change Component DesignItemId : Designator=R22 Old DesignItemId=CRCW08054K70FKEAHP New DesignItemId=CRCW0805100RFKEAHP
+Change Component DesignItemId : Designator=R27 Old DesignItemId=CRCW080539K0FKEA New DesignItemId=CRCW0805100RFKEAHP
+Change Component DesignItemId : Designator=R28 Old DesignItemId=CRCW080539K0FKEA New DesignItemId=CRCW0805100RFKEAHP
+Change Component Comment : Designator=R21 Old Comment=CRCW08054K70FKEAHP New Comment=CRCW0805100RFKEAHP
+Change Component Comment : Designator=R22 Old Comment=CRCW08054K70FKEAHP New Comment=CRCW0805100RFKEAHP
+Change Component Comment : Designator=R27 Old Comment=CRCW080539K0FKEA New Comment=CRCW0805100RFKEAHP
+Change Component Comment : Designator=R28 Old Comment=CRCW080539K0FKEA New Comment=CRCW0805100RFKEAHP
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R29 NewDesignator=R33
+Change Component Designator: OldDesignator=R30 NewDesignator=R34
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Change Component Designator: OldDesignator=R32 NewDesignator=R36
+Change Component Library : Designator=R21 Old Library=SamacSys.SchLib New Library=*
+Change Component Library : Designator=R22 Old Library=SamacSys.SchLib New Library=*
+Change Component Library : Designator=R27 Old Library=SamacSys.SchLib New Library=*
+Change Component Library : Designator=R28 Old Library=SamacSys.SchLib New Library=*
+Added Component: Designator=R23(RESC2012X50N)
+Added Component: Designator=R24(RESC2012X50N)
+Added Component: Designator=R31(RESC2012X50N)
+Added Component: Designator=R32(RESC2012X50N)
+Added Pin To Net: NetName=NetD2_2 Pin=R21-1
+Added Pin To Net: NetName=NetD2_1 Pin=R22-1
+Added Pin To Net: NetName=V_DD_1 Pin=R21-1
+Added Pin To Net: NetName=I2C2_SCL Pin=R21-2
+Added Pin To Net: NetName=V_DD_1 Pin=R22-1
+Added Pin To Net: NetName=I2C2_SDA Pin=R22-2
+Added Pin To Net: NetName=NetD3_2 Pin=R27-1
+Added Pin To Net: NetName=NetD3_1 Pin=R28-1
+Added Pin To Net: NetName=V_DD_1 Pin=R27-1
+Added Pin To Net: NetName=PA1 Pin=R27-2
+Added Pin To Net: NetName=V_DD_1 Pin=R28-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=R28-2
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R21-2
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=R22-2
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=R27-2
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=R28-2
+Added Net: Name=NetJ7_3
+Added Member To Class: ClassName=TC Display & IMU Member=Component R25 CRCW08054K70FKEAHP
+Added Member To Class: ClassName=TC Display & IMU Member=Component R26 CRCW08054K70FKEAHP
+Added Member To Class: ClassName=TC Display & IMU Member=Component R27 CRCW0805100RFKEAHP
+Added Member To Class: ClassName=TC Display & IMU Member=Component R28 CRCW0805100RFKEAHP

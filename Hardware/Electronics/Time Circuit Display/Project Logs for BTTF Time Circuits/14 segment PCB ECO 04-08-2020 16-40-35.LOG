@@ -1,0 +1,91 @@
+Added Component: Designator=J1(HDRV9W95P0X254_1X9_2286X254X874P)
+Added Component: Designator=J2(HDRV9W95P0X254_1X9_2286X254X874P)
+Added Pin To Net: NetName=NetDIG 1 SEG A_1 Pin=DIG 2 SEG A-1
+Added Pin To Net: NetName=NetDIG 1 SEG B_1 Pin=DIG 2 SEG B-1
+Added Pin To Net: NetName=NetDIG 1 SEG C_1 Pin=DIG 2 SEG C-1
+Added Pin To Net: NetName=NetDIG 1 SEG D_1 Pin=DIG 2 SEG D-1
+Added Pin To Net: NetName=NetDIG 1 SEG E_1 Pin=DIG 2 SEG E-1
+Added Pin To Net: NetName=NetDIG 1 SEG F_1 Pin=DIG 2 SEG F-1
+Added Pin To Net: NetName=NetDIG 1 SEG G_1 Pin=DIG 2 SEG G-1
+Added Pin To Net: NetName=NetDIG 1 SEG H_1 Pin=DIG 2 SEG H-1
+Added Pin To Net: NetName=NetDIG 1 SEG I_1 Pin=DIG 2 SEG I-1
+Added Pin To Net: NetName=NetDIG 1 SEG J_1 Pin=DIG 2 SEG J-1
+Added Pin To Net: NetName=NetDIG 1 SEG K_1 Pin=DIG 2 SEG K-1
+Added Pin To Net: NetName=NetDIG 1 SEG L_1 Pin=DIG 2 SEG L-1
+Added Pin To Net: NetName=NetDIG 1 SEG M_1 Pin=DIG 2 SEG M-1
+Added Pin To Net: NetName=NetDIG 1 SEG N_1 Pin=DIG 2 SEG N-1
+Added Pin To Net: NetName=NetDIG 1 SEG A_1 Pin=DIG 3 SEG A-1
+Added Pin To Net: NetName=NetDIG 1 SEG B_1 Pin=DIG 3 SEG B-1
+Added Pin To Net: NetName=NetDIG 1 SEG C_1 Pin=DIG 3 SEG C-1
+Added Pin To Net: NetName=NetDIG 1 SEG D_1 Pin=DIG 3 SEG D-1
+Added Pin To Net: NetName=NetDIG 1 SEG E_1 Pin=DIG 3 SEG E-1
+Added Pin To Net: NetName=NetDIG 1 SEG F_1 Pin=DIG 3 SEG F-1
+Added Pin To Net: NetName=NetDIG 1 SEG G_1 Pin=DIG 3 SEG G-1
+Added Pin To Net: NetName=NetDIG 1 SEG H_1 Pin=DIG 3 SEG H-1
+Added Pin To Net: NetName=NetDIG 1 SEG I_1 Pin=DIG 3 SEG I-1
+Added Pin To Net: NetName=NetDIG 1 SEG J_1 Pin=DIG 3 SEG J-1
+Added Pin To Net: NetName=NetDIG 1 SEG K_1 Pin=DIG 3 SEG K-1
+Added Pin To Net: NetName=NetDIG 1 SEG L_1 Pin=DIG 3 SEG L-1
+Added Pin To Net: NetName=NetDIG 1 SEG M_1 Pin=DIG 3 SEG M-1
+Added Pin To Net: NetName=NetDIG 1 SEG N_1 Pin=DIG 3 SEG N-1
+Added Pin To Net: NetName=NetDIG 1 SEG A_1 Pin=J1-1
+Added Pin To Net: NetName=NetDIG 1 SEG B_1 Pin=J1-2
+Added Pin To Net: NetName=NetDIG 1 SEG C_1 Pin=J1-3
+Added Pin To Net: NetName=NetDIG 1 SEG D_1 Pin=J1-4
+Added Pin To Net: NetName=NetDIG 1 SEG E_1 Pin=J1-5
+Added Pin To Net: NetName=NetDIG 1 SEG F_1 Pin=J1-6
+Added Pin To Net: NetName=NetDIG 1 SEG G_1 Pin=J1-7
+Added Pin To Net: NetName=NetDIG 1 SEG H_1 Pin=J1-8
+Added Pin To Net: NetName=NetDIG 1 SEG I_1 Pin=J1-9
+Added Pin To Net: NetName=NetDIG 1 SEG J_1 Pin=J2-1
+Added Pin To Net: NetName=NetDIG 1 SEG K_1 Pin=J2-2
+Added Pin To Net: NetName=NetDIG 1 SEG L_1 Pin=J2-3
+Added Pin To Net: NetName=NetDIG 1 SEG M_1 Pin=J2-4
+Added Pin To Net: NetName=NetDIG 1 SEG N_1 Pin=J2-5
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=J2-7
+Added Pin To Net: NetName=NetDIG 2 SEG A_1 Pin=J2-8
+Added Pin To Net: NetName=NetDIG 3 SEG A_1 Pin=J2-9
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG A APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG B APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG C APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG D APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG E APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG F APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG G APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG H APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG I APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG J APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG K APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG L APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG M APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 1 SEG N APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG A APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG B APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG C APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG D APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG E APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG F APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG G APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG H APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG I APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG J APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG K APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG L APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG M APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 2 SEG N APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG A APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG B APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG C APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG D APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG E APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG F APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG G APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG H APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG I APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG J APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG K APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG L APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG M APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component DIG 3 SEG N APG0603SYC-TT
+Added Member To Class: ClassName=14 segment Member=Component J1 61300911121
+Added Member To Class: ClassName=14 segment Member=Component J2 61300911121

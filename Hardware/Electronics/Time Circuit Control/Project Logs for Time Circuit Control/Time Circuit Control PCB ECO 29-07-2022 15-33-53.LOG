@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=PC11 Pin=C10-1
+Removed Pin From Net: NetName=V_SS_1 Pin=D1-1
+Removed Member From Class: ClassName=Ext RTC Member=C24
+Removed Member From Class: ClassName=Keypad Controls Member=C24
+Removed Member From Class: ClassName=Sound Effect Memory Member=C24
+Added Component: Designator=C11(CAPC2012X88N)
+Added Component: Designator=D2(SMDLX5050RGBTR)
+Added Pin To Net: NetName=+3.3V BAT Pin=C10-1
+Added Pin To Net: NetName=PC11 Pin=C10-1
+Added Pin To Net: NetName=V_SS_1 Pin=C10-2
+Added Pin To Net: NetName=+3.3V BAT Pin=D1-1
+Added Pin To Net: NetName=V_SS_1 Pin=D1-1
+Added Member To Class: ClassName=Keypad Controls Member=Component C12 C0805C104K3RACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component C13 C0805C104K4RACTU
+Added Member To Class: ClassName=Keypad Controls Member=Component C14 C0805C104K3RACTU
+Added Member To Class: ClassName=Ext RTC Member=Component C15 C0805C104K4RACTU
+Added Member To Class: ClassName=Sound Effect Memory Member=Component C16 C0805C104K4RACTU
+Added Member To Class: ClassName=MCU Member=Component C17 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C18 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C19 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C20 C0805C104K3RACTU
+Added Member To Class: ClassName=MCU Member=Component C21 C0805C105K5RACTU
+Added Member To Class: ClassName=MCU Member=Component C22 C0805C103J5RACTU
+Added Member To Class: ClassName=MCU Member=Component C23 C0805C104K3RACTU
+Added Member To Class: ClassName=TC Display & IMU Member=Component D3 ESDAVLC6-2BLY
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

@@ -1,0 +1,5 @@
+Added Component: Designator=Q5(SOT96P240X120-3N)
+Added Pin To Net: NetName=V_DD_1 Pin=Q5-1
+Added Pin To Net: NetName=I2C1_SCL Pin=Q5-2
+Added Pin To Net: NetName=NetD3_1 Pin=Q5-3
+Added Member To Class: ClassName=TC Display & IMU Member=Component Q5 2N7002

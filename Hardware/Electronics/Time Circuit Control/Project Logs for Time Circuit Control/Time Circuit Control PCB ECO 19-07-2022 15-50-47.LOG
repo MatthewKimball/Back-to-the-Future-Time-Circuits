@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PC6 Pin=J5-6
+Removed Pin From Net: NetName=PC7 Pin=J5-7
+Removed Pin From Net: NetName=PA1 Pin=J8-P2
+Removed Pin From Net: NetName=PA4 Pin=J8-P9
+Removed Pin From Net: NetName=PA1 Pin=R31-2
+Removed Pin From Net: NetName=PA4 Pin=R35-2
+Added Pin To Net: NetName=PA1 Pin=J5-6
+Added Pin To Net: NetName=PA4 Pin=J5-7
+Added Pin To Net: NetName=PC6 Pin=J8-P2
+Added Pin To Net: NetName=PC7 Pin=J8-P9
+Added Pin To Net: NetName=PC6 Pin=R31-2
+Added Pin To Net: NetName=PC7 Pin=R35-2
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

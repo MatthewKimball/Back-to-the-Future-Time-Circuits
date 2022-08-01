@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ2_4 Pin=J2-4
+Removed Pin From Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-5
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ2_5
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=NetJ2_4
+Added Room: Name=14 segment

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_DD_1 Pin=C1-1
+Added Pin To Net: NetName=PB5 Pin=C1-1
+Added Pin To Net: NetName=V_DD_1 Pin=C2-1
+Added Pin To Net: NetName=V_SS_1 Pin=C2-2
+Added Member To Class: ClassName=Audio Amp & Control Member=Component C2 C0805C106K8RACTU

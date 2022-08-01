@@ -1,0 +1,7 @@
+Added Component: Designator=J2(SHDR4W64P0X250_1X4_1246X650X700P)
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetIC1_26 Pin=J2-2
+Added Pin To Net: NetName=NetIC1_27 Pin=J2-3
+Added Pin To Net: NetName=NetC1_1 Pin=J2-4
+Added Member To Class: ClassName=Faceplate_Display Member=Component J2 35312-0460
+Added Room: Name=Faceplate_Display

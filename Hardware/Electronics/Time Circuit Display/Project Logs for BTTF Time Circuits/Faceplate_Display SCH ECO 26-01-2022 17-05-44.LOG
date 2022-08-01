@@ -1,0 +1,3 @@
+Remove Pin=DSP1-3 From Net=COM5
+Remove Pin=DSP1-11 From Net=COM6
+Remove Pin=DSP1-16 From Net=COM7

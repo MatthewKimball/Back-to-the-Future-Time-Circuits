@@ -1,0 +1,216 @@
+Added Component: Designator=DIG 1 SEG A(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG B(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG C(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG D(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG E(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG F(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG G(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG H(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG I(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG J(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG K(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG L(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG M(APG0603SYCTT)
+Added Component: Designator=DIG 1 SEG N(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG A(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG B(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG C(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG D(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG E(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG F(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG G(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG H(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG I(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG J(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG K(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG L(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG M(APG0603SYCTT)
+Added Component: Designator=DIG 2 SEG N(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG A(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG B(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG C(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG D(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG E(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG F(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG G(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG H(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG I(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG J(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG K(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG L(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG M(APG0603SYCTT)
+Added Component: Designator=DIG 3 SEG N(APG0603SYCTT)
+Added Component: Designator=J1(HDRV22W64P0X254_1X22_5558X254X869P)
+Added Component: Designator=J2(HDRV22W64P0X254_1X22_5558X254X869P)
+Added Pin To Net: NetName=NetDIG 1 SEG A_1 Pin=DIG 1 SEG A-1
+Added Pin To Net: NetName=NetDIG 1 SEG A_1 Pin=J1-2
+Added Net: Name=NetDIG 1 SEG A_1
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG A-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG B-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG C-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG D-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG E-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG F-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG G-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG H-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG I-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG J-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG K-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG L-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG M-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 1 SEG N-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG A-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG B-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG C-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG D-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG E-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG F-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG G-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG H-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG I-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG J-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG K-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG L-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG M-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 2 SEG N-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG A-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG B-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG C-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG D-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG E-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG F-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG G-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG H-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG I-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG J-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG K-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG L-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG M-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=DIG 3 SEG N-2
+Added Pin To Net: NetName=NetDIG 1 SEG A_2 Pin=J1-1
+Added Net: Name=NetDIG 1 SEG A_2
+Added Pin To Net: NetName=NetDIG 1 SEG B_1 Pin=DIG 1 SEG B-1
+Added Pin To Net: NetName=NetDIG 1 SEG B_1 Pin=J1-3
+Added Net: Name=NetDIG 1 SEG B_1
+Added Pin To Net: NetName=NetDIG 1 SEG C_1 Pin=DIG 1 SEG C-1
+Added Pin To Net: NetName=NetDIG 1 SEG C_1 Pin=J1-4
+Added Net: Name=NetDIG 1 SEG C_1
+Added Pin To Net: NetName=NetDIG 1 SEG D_1 Pin=DIG 1 SEG D-1
+Added Pin To Net: NetName=NetDIG 1 SEG D_1 Pin=J1-5
+Added Net: Name=NetDIG 1 SEG D_1
+Added Pin To Net: NetName=NetDIG 1 SEG E_1 Pin=DIG 1 SEG E-1
+Added Pin To Net: NetName=NetDIG 1 SEG E_1 Pin=J1-6
+Added Net: Name=NetDIG 1 SEG E_1
+Added Pin To Net: NetName=NetDIG 1 SEG F_1 Pin=DIG 1 SEG F-1
+Added Pin To Net: NetName=NetDIG 1 SEG F_1 Pin=J1-7
+Added Net: Name=NetDIG 1 SEG F_1
+Added Pin To Net: NetName=NetDIG 1 SEG G_1 Pin=DIG 1 SEG G-1
+Added Pin To Net: NetName=NetDIG 1 SEG G_1 Pin=J1-8
+Added Net: Name=NetDIG 1 SEG G_1
+Added Pin To Net: NetName=NetDIG 1 SEG H_1 Pin=DIG 1 SEG H-1
+Added Pin To Net: NetName=NetDIG 1 SEG H_1 Pin=J2-2
+Added Net: Name=NetDIG 1 SEG H_1
+Added Pin To Net: NetName=NetDIG 1 SEG I_1 Pin=DIG 1 SEG I-1
+Added Pin To Net: NetName=NetDIG 1 SEG I_1 Pin=J2-3
+Added Net: Name=NetDIG 1 SEG I_1
+Added Pin To Net: NetName=NetDIG 1 SEG J_1 Pin=DIG 1 SEG J-1
+Added Pin To Net: NetName=NetDIG 1 SEG J_1 Pin=J2-4
+Added Net: Name=NetDIG 1 SEG J_1
+Added Pin To Net: NetName=NetDIG 1 SEG K_1 Pin=DIG 1 SEG K-1
+Added Pin To Net: NetName=NetDIG 1 SEG K_1 Pin=J2-5
+Added Net: Name=NetDIG 1 SEG K_1
+Added Pin To Net: NetName=NetDIG 1 SEG L_1 Pin=DIG 1 SEG L-1
+Added Pin To Net: NetName=NetDIG 1 SEG L_1 Pin=J2-6
+Added Net: Name=NetDIG 1 SEG L_1
+Added Pin To Net: NetName=NetDIG 1 SEG M_1 Pin=DIG 1 SEG M-1
+Added Pin To Net: NetName=NetDIG 1 SEG M_1 Pin=J2-7
+Added Net: Name=NetDIG 1 SEG M_1
+Added Pin To Net: NetName=NetDIG 1 SEG N_1 Pin=DIG 1 SEG N-1
+Added Pin To Net: NetName=NetDIG 1 SEG N_1 Pin=J2-8
+Added Net: Name=NetDIG 1 SEG N_1
+Added Pin To Net: NetName=NetDIG 2 SEG A_1 Pin=DIG 2 SEG A-1
+Added Pin To Net: NetName=NetDIG 2 SEG A_1 Pin=J1-9
+Added Net: Name=NetDIG 2 SEG A_1
+Added Pin To Net: NetName=NetDIG 2 SEG B_1 Pin=DIG 2 SEG B-1
+Added Pin To Net: NetName=NetDIG 2 SEG B_1 Pin=J1-10
+Added Net: Name=NetDIG 2 SEG B_1
+Added Pin To Net: NetName=NetDIG 2 SEG C_1 Pin=DIG 2 SEG C-1
+Added Pin To Net: NetName=NetDIG 2 SEG C_1 Pin=J1-11
+Added Net: Name=NetDIG 2 SEG C_1
+Added Pin To Net: NetName=NetDIG 2 SEG D_1 Pin=DIG 2 SEG D-1
+Added Pin To Net: NetName=NetDIG 2 SEG D_1 Pin=J1-12
+Added Net: Name=NetDIG 2 SEG D_1
+Added Pin To Net: NetName=NetDIG 2 SEG E_1 Pin=DIG 2 SEG E-1
+Added Pin To Net: NetName=NetDIG 2 SEG E_1 Pin=J1-13
+Added Net: Name=NetDIG 2 SEG E_1
+Added Pin To Net: NetName=NetDIG 2 SEG F_1 Pin=DIG 2 SEG F-1
+Added Pin To Net: NetName=NetDIG 2 SEG F_1 Pin=J1-14
+Added Net: Name=NetDIG 2 SEG F_1
+Added Pin To Net: NetName=NetDIG 2 SEG G_1 Pin=DIG 2 SEG G-1
+Added Pin To Net: NetName=NetDIG 2 SEG G_1 Pin=J1-15
+Added Net: Name=NetDIG 2 SEG G_1
+Added Pin To Net: NetName=NetDIG 2 SEG H_1 Pin=DIG 2 SEG H-1
+Added Pin To Net: NetName=NetDIG 2 SEG H_1 Pin=J2-9
+Added Net: Name=NetDIG 2 SEG H_1
+Added Pin To Net: NetName=NetDIG 2 SEG I_1 Pin=DIG 2 SEG I-1
+Added Pin To Net: NetName=NetDIG 2 SEG I_1 Pin=J2-10
+Added Net: Name=NetDIG 2 SEG I_1
+Added Pin To Net: NetName=NetDIG 2 SEG J_1 Pin=DIG 2 SEG J-1
+Added Pin To Net: NetName=NetDIG 2 SEG J_1 Pin=J2-11
+Added Net: Name=NetDIG 2 SEG J_1
+Added Pin To Net: NetName=NetDIG 2 SEG K_1 Pin=DIG 2 SEG K-1
+Added Pin To Net: NetName=NetDIG 2 SEG K_1 Pin=J2-12
+Added Net: Name=NetDIG 2 SEG K_1
+Added Pin To Net: NetName=NetDIG 2 SEG L_1 Pin=DIG 2 SEG L-1
+Added Pin To Net: NetName=NetDIG 2 SEG L_1 Pin=J2-13
+Added Net: Name=NetDIG 2 SEG L_1
+Added Pin To Net: NetName=NetDIG 2 SEG M_1 Pin=DIG 2 SEG M-1
+Added Pin To Net: NetName=NetDIG 2 SEG M_1 Pin=J2-14
+Added Net: Name=NetDIG 2 SEG M_1
+Added Pin To Net: NetName=NetDIG 2 SEG N_1 Pin=DIG 2 SEG N-1
+Added Pin To Net: NetName=NetDIG 2 SEG N_1 Pin=J2-15
+Added Net: Name=NetDIG 2 SEG N_1
+Added Pin To Net: NetName=NetDIG 3 SEG A_1 Pin=DIG 3 SEG A-1
+Added Pin To Net: NetName=NetDIG 3 SEG A_1 Pin=J1-16
+Added Net: Name=NetDIG 3 SEG A_1
+Added Pin To Net: NetName=NetDIG 3 SEG B_1 Pin=DIG 3 SEG B-1
+Added Pin To Net: NetName=NetDIG 3 SEG B_1 Pin=J1-17
+Added Net: Name=NetDIG 3 SEG B_1
+Added Pin To Net: NetName=NetDIG 3 SEG C_1 Pin=DIG 3 SEG C-1
+Added Pin To Net: NetName=NetDIG 3 SEG C_1 Pin=J1-18
+Added Net: Name=NetDIG 3 SEG C_1
+Added Pin To Net: NetName=NetDIG 3 SEG D_1 Pin=DIG 3 SEG D-1
+Added Pin To Net: NetName=NetDIG 3 SEG D_1 Pin=J1-19
+Added Net: Name=NetDIG 3 SEG D_1
+Added Pin To Net: NetName=NetDIG 3 SEG E_1 Pin=DIG 3 SEG E-1
+Added Pin To Net: NetName=NetDIG 3 SEG E_1 Pin=J1-20
+Added Net: Name=NetDIG 3 SEG E_1
+Added Pin To Net: NetName=NetDIG 3 SEG F_1 Pin=DIG 3 SEG F-1
+Added Pin To Net: NetName=NetDIG 3 SEG F_1 Pin=J1-21
+Added Net: Name=NetDIG 3 SEG F_1
+Added Pin To Net: NetName=NetDIG 3 SEG G_1 Pin=DIG 3 SEG G-1
+Added Pin To Net: NetName=NetDIG 3 SEG G_1 Pin=J1-22
+Added Net: Name=NetDIG 3 SEG G_1
+Added Pin To Net: NetName=NetDIG 3 SEG H_1 Pin=DIG 3 SEG H-1
+Added Pin To Net: NetName=NetDIG 3 SEG H_1 Pin=J2-16
+Added Net: Name=NetDIG 3 SEG H_1
+Added Pin To Net: NetName=NetDIG 3 SEG I_1 Pin=DIG 3 SEG I-1
+Added Pin To Net: NetName=NetDIG 3 SEG I_1 Pin=J2-17
+Added Net: Name=NetDIG 3 SEG I_1
+Added Pin To Net: NetName=NetDIG 3 SEG J_1 Pin=DIG 3 SEG J-1
+Added Pin To Net: NetName=NetDIG 3 SEG J_1 Pin=J2-18
+Added Net: Name=NetDIG 3 SEG J_1
+Added Pin To Net: NetName=NetDIG 3 SEG K_1 Pin=DIG 3 SEG K-1
+Added Pin To Net: NetName=NetDIG 3 SEG K_1 Pin=J2-19
+Added Net: Name=NetDIG 3 SEG K_1
+Added Pin To Net: NetName=NetDIG 3 SEG L_1 Pin=DIG 3 SEG L-1
+Added Pin To Net: NetName=NetDIG 3 SEG L_1 Pin=J2-20
+Added Net: Name=NetDIG 3 SEG L_1
+Added Pin To Net: NetName=NetDIG 3 SEG M_1 Pin=DIG 3 SEG M-1
+Added Pin To Net: NetName=NetDIG 3 SEG M_1 Pin=J2-21
+Added Net: Name=NetDIG 3 SEG M_1
+Added Pin To Net: NetName=NetDIG 3 SEG N_1 Pin=DIG 3 SEG N-1
+Added Pin To Net: NetName=NetDIG 3 SEG N_1 Pin=J2-22
+Added Net: Name=NetDIG 3 SEG N_1
+Added Class: Name=14 segment
+Added Room: Name=14 segment

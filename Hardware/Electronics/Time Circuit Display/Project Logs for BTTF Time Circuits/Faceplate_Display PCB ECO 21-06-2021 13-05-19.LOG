@@ -1,0 +1,23 @@
+Added Component: Designator=DSP1(3 Digit 14 Segment)
+Added Pin To Net: NetName=ROW1 Pin=DSP1-1
+Added Pin To Net: NetName=ROW0 Pin=DSP1-2
+Added Pin To Net: NetName=ROW0 Pin=DSP1-2
+Added Pin To Net: NetName=ROW9 Pin=DSP1-3
+Added Pin To Net: NetName=ROW9 Pin=DSP1-3
+Added Pin To Net: NetName=ROW8 Pin=DSP1-4
+Added Pin To Net: NetName=ROW7 Pin=DSP1-5
+Added Pin To Net: NetName=COM1 Pin=DSP1-6
+Added Pin To Net: NetName=ROW5 Pin=DSP1-7
+Added Pin To Net: NetName=ROW6 Pin=DSP1-8
+Added Pin To Net: NetName=COM0 Pin=DSP1-9
+Added Pin To Net: NetName=COM2 Pin=DSP1-10
+Added Pin To Net: NetName=GND Pin=DSP1-11
+Added Pin To Net: NetName=ROW11 Pin=DSP1-12
+Added Pin To Net: NetName=ROW12 Pin=DSP1-13
+Added Pin To Net: NetName=ROW13 Pin=DSP1-14
+Added Pin To Net: NetName=ROW4 Pin=DSP1-15
+Added Pin To Net: NetName=ROW3 Pin=DSP1-16
+Added Pin To Net: NetName=ROW2 Pin=DSP1-17
+Added Pin To Net: NetName=ROW10 Pin=DSP1-18
+Added Member To Class: ClassName=Faceplate_Display Member=Component DSP1 3 Digit 14 Segement
+Added Room: Name=Faceplate_Display

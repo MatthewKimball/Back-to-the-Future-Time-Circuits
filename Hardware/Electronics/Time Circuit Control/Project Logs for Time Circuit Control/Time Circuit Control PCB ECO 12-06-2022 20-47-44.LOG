@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=V_DD_1 Pin=R27-1
+Removed Pin From Net: NetName=PA1 Pin=R27-2
+Removed Pin From Net: NetName=V_DD_1 Pin=R28-1
+Removed Pin From Net: NetName=SPI1_MISO Pin=R28-2
+Change Component Designator: OldDesignator= NewDesignator=IC2
+Added Component: Designator=R31(RESC2012X50N)
+Added Component: Designator=R33(RESC2012X50N)
+Added Pin To Net: NetName=NetD3_2 Pin=R27-1
+Added Pin To Net: NetName=NetJ7_4 Pin=R27-2
+Added Pin To Net: NetName=NetD3_1 Pin=R28-1
+Added Pin To Net: NetName=NetJ7_3 Pin=R28-2
+Added Pin To Net: NetName=V_DD_1 Pin=R27-1
+Added Pin To Net: NetName=PA1 Pin=R27-2
+Added Pin To Net: NetName=V_DD_1 Pin=R28-1
+Added Pin To Net: NetName=SPI1_MISO Pin=R28-2
+Added Member To Class: ClassName=CAN Comms Member=Component IC2 MCP2562-E_SN

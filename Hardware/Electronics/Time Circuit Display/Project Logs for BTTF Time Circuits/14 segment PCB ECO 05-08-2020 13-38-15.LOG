@@ -1,0 +1,33 @@
+Added Component: Designator=LED?(LEDC1005X40N)
+Added Pin To Net: NetName=NetJ2_8 Pin=L2A-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2B-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2C-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2D-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2E-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2F-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2G-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2H-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2I-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2J-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2K-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2L-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2M-1
+Added Pin To Net: NetName=NetJ2_8 Pin=L2N-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3A-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3B-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3C-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3D-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3E-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3F-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3G-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3H-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3I-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3J-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3K-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3L-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3M-1
+Added Pin To Net: NetName=NetJ2_9 Pin=L3N-1
+Added Member To Class: ClassName=14 segment Member=Component J1 61300911121
+Added Member To Class: ClassName=14 segment Member=Component J2 61300911121
+Added Member To Class: ClassName=14 segment Member=Component LED? LT_QH9G-Q2OO-25-2Z4Y
+Added Room: Name=14 segment

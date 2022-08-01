@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=J1 Old Footprint=HDRV9W95P0X254_1X9_2286X254X874P New Footprint=HDRV22W64P0X254_1X22_5558X254X869P
+Change Component Footprint: Designator=J2 Old Footprint=HDRV9W95P0X254_1X9_2286X254X874P New Footprint=HDRV22W64P0X254_1X22_5558X254X869P
+Change Component Comment: Designator=J1 Old Comment=61300911121 New Comment=61302211121
+Change Component Comment: Designator=J2 Old Comment=61300911121 New Comment=61302211121
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG A-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG B-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG C-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG D-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG E-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG F-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG G-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG H-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG I-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG J-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG K-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG L-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG M-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 2 SEG N-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG A-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG B-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG C-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG D-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG E-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG F-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG G-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG H-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG I-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG J-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG K-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG L-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG M-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=DIG 3 SEG N-2 Old Name=A New Designator =K New Name=1

@@ -1,0 +1,32 @@
+Added Component: Designator=J10(HDRV2W66P0X254_1X2_508X254X874P)
+Added Component: Designator=J11(HDRV2W66P0X254_1X2_508X254X874P)
+Added Component: Designator=LED3(LTH5MM12VFR4100)
+Added Component: Designator=LED4(LTH5MM12VFR4100)
+Added Component: Designator=LED5(LTH5MM12VFR4100)
+Added Component: Designator=LED6(LTH5MM12VFR4100)
+Added Component: Designator=S4(PMS9P1B10M2QE)
+Added Component: Designator=S5(BB15APFA)
+Added Pin To Net: NetName=USART1_TX Pin=J10-1
+Added Pin To Net: NetName=USART1_RX Pin=J10-2
+Added Pin To Net: NetName=USART2_TX Pin=J11-1
+Added Pin To Net: NetName=USART2_RX Pin=J11-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=V_SS_1 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=V_SS_1 Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=V_SS_1 Pin=LED5-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=V_SS_1 Pin=LED6-2
+Added Pin To Net: NetName=V_SS_1 Pin=S4-1
+Added Pin To Net: NetName=PC11 Pin=S4-3
+Added Pin To Net: NetName=V_SS_1 Pin=S5-1
+Added Pin To Net: NetName=PC8 Pin=S5-2
+Added Member To Class: ClassName=MCU Member=Component J10 M20-9990246
+Added Member To Class: ClassName=MCU Member=Component J11 M20-9990246
+Added Member To Class: ClassName=Keypad Controls Member=Component LED3 LTH5MM12VFR4100
+Added Member To Class: ClassName=Keypad Controls Member=Component LED4 LTH5MM12VFR4100
+Added Member To Class: ClassName=Keypad Controls Member=Component LED5 LTH5MM12VFR4100
+Added Member To Class: ClassName=Keypad Controls Member=Component LED6 LTH5MM12VFR4100
+Added Member To Class: ClassName=Keypad Controls Member=Component S4 PMS9P1B10M2QE
+Added Member To Class: ClassName=Keypad Controls Member=Component S5 BB15AP-FA

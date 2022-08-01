@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PB2 Pin=IC4-27
+Removed Pin From Net: NetName=PC8 Pin=IC4-39
+Added Pin To Net: NetName=PC8 Pin=IC4-27
+Added Pin To Net: NetName=PB2 Pin=IC4-39
+Change Net Name : Old Net Name=PB2 New Net Name=PC8
+Change Net Name : Old Net Name=PC8 New Net Name=PB2
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

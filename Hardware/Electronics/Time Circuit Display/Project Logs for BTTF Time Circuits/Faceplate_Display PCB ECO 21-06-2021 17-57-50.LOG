@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetIC1_27 Pin=J1-2
+Removed Pin From Net: NetName=NetIC1_26 Pin=J1-3
+Added Pin To Net: NetName=NetIC1_26 Pin=J1-2
+Added Pin To Net: NetName=NetIC1_27 Pin=J1-3
+Added Room: Name=Faceplate_Display

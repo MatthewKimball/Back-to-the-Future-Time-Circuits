@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V_DD_1 Pin=R13-1
+Removed Pin From Net: NetName=V_DD_1 Pin=R14-1
+Removed Pin From Net: NetName=V_DD_1 Pin=R15-1
+Added Pin To Net: NetName=+5V Pin=R13-1
+Added Pin To Net: NetName=+5V Pin=R14-1
+Added Pin To Net: NetName=+5V Pin=R15-1
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU
