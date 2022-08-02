@@ -390,3 +390,31 @@ Used DCodes :
     D62
 *************************************************************
 
+*************************************************************
+Generating : Drill Drawing
+      File : Time Circuit Control.GD1
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Time Circuit Control.GG1
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D115
+*************************************************************
+

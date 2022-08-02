@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Public\Documents\Altium\Projects\Hardware\Electronics\Time Circuit Control\.PDF
+OutputFilePath2=C:\Users\Public\Documents\Altium\Projects\Time Circuit Project\Hardware\Electronics\Time Circuit Control\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Public\Documents\Altium\Projects\Hardware\Electronics\Time Circuit Control\
+OutputBasePath2=C:\Users\Public\Documents\Altium\Projects\Time Circuit Project\Hardware\Electronics\Time Circuit Control\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -79,7 +79,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Public\Documents\Altium\Projects\Hardware\Electronics\Time Circuit Control\.PDF
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\Projects\Time Circuit Project\Hardware\Electronics\Time Circuit Control\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
@@ -175,5 +175,5 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration3_Name1=ColumnNameFormat
 Configuration3_Item1=CaptionAsName
 Configuration3_Name2=General
-Configuration3_Item2=TemplateFilename=BOM Default Template.XLT
+Configuration3_Item2=TemplateFilename=BOM Manufacturer.XLT
 

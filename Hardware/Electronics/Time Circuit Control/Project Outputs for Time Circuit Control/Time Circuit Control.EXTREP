@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Time Circuit Control.GBR   01/08/2022  16:04:08
+Gerber File Extension Report For: Time Circuit Control.GBR   02/08/2022  12:34:42
 ------------------------------------------------------------------------------------------
 
 
@@ -18,4 +18,6 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 .GM1                Mechanical 1                            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------
