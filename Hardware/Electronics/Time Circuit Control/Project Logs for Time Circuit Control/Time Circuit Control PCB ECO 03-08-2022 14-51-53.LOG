@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J9 Old Footprint=HDRV2W66P0X254_1X2_508X254X874P New Footprint=HDRV3W64P0X254_1X3_762X254X864P
+Added Pin To Net: NetName=VBAT EXT_RTC Pin=J9-3

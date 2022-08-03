@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3.3V BAT Pin=IC3-14
+Removed Member From Class: ClassName=MCU Member=J9
+Change Component DesignItemId : Designator=J9 Old DesignItemId=M20-9990246 New DesignItemId=M20-9990345
+Change Component Comment : Designator=J9 Old Comment=M20-9990246 New Comment=M20-9990345
+Change Net Name : Old Net Name=+3.3V BAT New Net Name=NetC10_1
+Change Net Name : Old Net Name=GND New Net Name=V_SS_1
+Change Net Name : Old Net Name=NetIC4_1 New Net Name=VBAT MICRO
+Added Pin To Net: NetName=VBAT EXT_RTC Pin=IC3-14
+Added Net: Name=VBAT EXT_RTC
+Added Member To Class: ClassName=Audio Amp & Control Member=Component C5 C0805C473J8GACAUTO
+Added Member To Class: ClassName=Power Member=Component J9 M20-9990345
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

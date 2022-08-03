@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=TC Display & IMU Member=R33
+Removed Member From Class: ClassName=TC Display & IMU Member=R38
+Removed Member From Class: ClassName=TC Display & IMU Member=R39
+Removed Member From Class: ClassName=Sound Effect Memory Member=R40
+Removed Member From Class: ClassName=TC Display & IMU Member=R40
+Added Member To Class: ClassName=MCU Member=Component J9 M20-9990246
+Added Member To Class: ClassName=TC Display & IMU Member=Component R21 CRCW0805100RFKEAHP
+Added Member To Class: ClassName=TC Display & IMU Member=Component R23 CRCW0805100RFKEAHP
+Added Member To Class: ClassName=TC Display & IMU Member=Component R29 CRCW0805100RFKEAHP
+Added Member To Class: ClassName=TC Display & IMU Member=Component R31 CRCW0805100RFKEAHP
+Added Member To Class: ClassName=Sound Effect Memory Member=Component R36 CRCW080539K0FKEA
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU

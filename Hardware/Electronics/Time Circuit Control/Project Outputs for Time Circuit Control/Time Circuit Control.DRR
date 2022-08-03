@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Time Circuit Control.PcbDoc   02/08/2022  12:36:14
+NCDrill File Report For: Time Circuit Control.PcbDoc   02/08/2022  14:11:22
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Time Circuit Control.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             151       PTH        26.38inch (669.97mm)
+T1      16mil (0.4mm)                                             Round             151       PTH        27.04inch (686.93mm)
 T2      28mil (0.71mm)                                            Round             8         PTH        1.30inch (33.02mm)
 T3      29mil (0.73mm)                                            Round             3         PTH        0.20inch (5.00mm)
 T4      32mil (0.8mm)                                             Round             3         PTH        0.20inch (5.08mm)

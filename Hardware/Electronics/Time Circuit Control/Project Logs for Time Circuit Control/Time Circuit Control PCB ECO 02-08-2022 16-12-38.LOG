@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=GND New Net Name=V_SS_1
+Added Member To Class: ClassName=TC Display & IMU Member=Component R28 CRCW08054K70FKEAHP
+Added Room: Name=Audio Amp & Control
+Added Room: Name=CAN Comms
+Added Room: Name=Ext RTC
+Added Room: Name=Keypad Controls
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sound Effect Memory
+Added Room: Name=TC Display & IMU
